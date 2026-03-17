@@ -5,7 +5,7 @@ import os
 
 # Tokenler
 TOKEN = "8796034964:AAFgaXE7orHVayl9f75PZZ26C92Ojkdg35g"
-GEMINI_API_KEY = "AIzaSyDxU8kysaypU2ew9eDZR5aVnYzRyJzHk3A"  # Ücretsiz Gemini API anahtarı
+GEMINI_API_KEY = AIzaSyBJV2mui_WNTMO89edfTbnRzEYVYYI8bI4 # Ücretsiz Gemini API anahtarı
 
 bot = telebot.TeleBot(TOKEN)
 
